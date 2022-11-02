@@ -12,11 +12,11 @@
     background: #fff;
 }
 .demo-block ul a:hover, .demo-block ul a:focus, .demo-block ul a:active {
-    color: #ffca00;
+    color: #33AEB5;
 }
 .btn-info:hover, .btn-info:focus, .btn-info:active {
-    background: #ffb300;
-    border-color: #ffb302;
+    background: #33AEB5;
+    border-color: #33AEB5;
 }
 .social-networks a {
     display: block;
@@ -32,15 +32,15 @@
     transition: all 0.25s linear;
 }
 .social-networks a:hover, .social-networks a:focus, .social-networks a:active {
-    background: #ffb302;
+    background: #33AEB5;
     color: #000000!important;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a.anchor-active, .navbar-default .navbar-nav > li > a:active {
-    color: #ff9a00;
+    color: #33AEB5;
 }
 .btn-default.btn-white:hover, .btn-default.btn-white:focus, .btn-default.btn-white:active {
-    border-color: #ff9a00!important;
-    background: #ff9a00;
+    border-color: #33AEB5!important;
+    background: #33AEB5;
 }
 #footer {
     color: #d9dbdc;
