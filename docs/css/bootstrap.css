@@ -1421,7 +1421,7 @@ img {
 
 .img-responsive {
   display: block;
-  max-width: 50%;
+  max-width: 90%;
   height: auto;
 }
 
